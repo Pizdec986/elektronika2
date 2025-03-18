@@ -1,0 +1,64 @@
+A csoport készítse el az elektornikai eszközök összefoglalóját a GitHub felületen.
+- mirõl szól a tananyag?
+- milyen alakatrészeket tanultunk, ezek mire valók?
+- milyen áramköröket lehet elkészíteni ezekbõl?
+- stb.
+
+
+Elektronikai eszközök összefoglaló
+
+Mirõl szól a tananyag?
+
+A tananyag az alapvetõ elektronikai eszközökrõl és áramkörökrõl szól. Bemutatja a legfontosabb alkatrészeket, azok mûködését és felhasználását, valamint gyakorlati példákon keresztül segít megérteni az egyszerû áramkörök tervezését és építését.
+
+Milyen alkatrészeket tanultunk és mire valók?
+
+Ellenállás (Resistor)
+
+Feladata az áramkorlátozás és a feszültségosztás.
+
+Ohm törvénye alapján mûködik (V = I * R).
+
+Kondenzátor (Capacitor)
+
+Elektromos töltést tárol és kisüt.
+
+Szûrésre, idõzítésre és csatolásra használható.
+
+Dióda (Diode)
+
+Egyirányú áramvezetést biztosít.
+
+Egyenirányításra, feszültségvédelemre használható.
+
+Tranzisztor (Transistor)
+
+Erõsítésre és kapcsolásra használatos félvezetõ eszköz.
+
+Két fõ típusa van: bipoláris tranzisztor (BJT) és mezõhatású tranzisztor (FET).
+
+Integrált áramkör (IC - Integrated Circuit)
+
+Több alkatrészbõl álló elektronikai eszköz, amely kompakt megoldást nyújt bonyolultabb funkciókra.
+
+Pl. mûveleti erõsítõk, mikrovezérlõk.
+
+Milyen áramköröket lehet elkészíteni ezekbõl?
+
+Egyszerû LED kapcsolás: Egy ellenállással sorba kötött LED, amely világít áram hatására.
+
+Feszültségosztó áramkör: Két ellenállás segítségével csökkenthetõ a kimeneti feszültség.
+
+Jelgenerátor: Kondenzátorok és tranzisztorok segítségével oszcillátorokat építhetünk.
+
+Erõsítõ áramkörök: Tranzisztorokkal és mûveleti erõsítõkkel hang- és jelfelerõsítõket lehet készíteni.
+
+Tápegység áramkörök: Egyenirányító diódák és stabilizátor IC-k segítségével stabil feszültséget állíthatunk elõ.
+
+Egyéb fontos fogalmak
+
+Ohm törvénye: V = I * R (Feszültség = Áram * Ellenállás)
+
+Soros és párhuzamos kapcsolás: Az alkatrészek különbözõ elrendezése az áramkörben.
+
+Frekvencia és idõállandó: Kondenzátorok és ellenállások kombinációjából adódó jellemzõ idõváltozások.
